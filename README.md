@@ -12,13 +12,13 @@
 
 ## 👋 About Me
 Hello! I’m **Anirudhdhsinh Chauhan**, a **Computer Science Engineering (AI)** student at **Parul University**, Vadodara, Gujarat 🇮🇳.  
-I’m deeply interested in **Artificial Intelligence, Data Science, and future technologies**, and I enjoy learning by building real-world projects and solving problems through code.
+I’m interested in **Artificial Intelligence, Data Science, and future technologies**, and I enjoy learning by building projects and strengthening my programming skills.
 
 ---
 
 ## 🚀 Quick Info
 - 🎓 **B.Tech in Artificial Intelligence** (2024 – 2028)
-- 🧠 Focus: **AI, Data Science & Programming**
+- 🧠 Focus: **AI, Programming & Data Science**
 - 📍 Vadodara, Gujarat, India
 - 📧 Email: **aniruddhsinhpc1@gmail.com**
 
@@ -30,15 +30,19 @@ I’m deeply interested in **Artificial Intelligence, Data Science, and future t
 
 ### 💻 Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 ### 🤖 AI & Data
 - Python for Data Analysis  
-- Basic Data Science concepts  
-- Problem Solving & Logical Thinking  
+- Basic Artificial Intelligence concepts  
+- Data Science fundamentals  
+- Logical Thinking & Problem Solving  
 
 ### 🌐 Web Basics
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### 🧰 Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -55,31 +59,22 @@ I’m deeply interested in **Artificial Intelligence, Data Science, and future t
 ---
 
 ## 📂 Projects (In Progress 🚧)
-> As a first-year AI student, I’m actively building projects. Repositories will be updated regularly.
+> As an AI student, I’m actively learning and building projects. Repositories will be updated regularly.
 
-### 🔹 Python Practice & Mini Projects
-- Python basics, logic building, and small automation scripts
+### 🔹 Programming Practice
+- Python, Java, C & C++ logic building  
+- Console-based mini programs  
 
-### 🔹 AI & Data Learning Repos
-- Hands-on notebooks and experiments while learning AI & Data Science
-
-*(Projects will be pinned as they mature — consistency > quantity)*
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aniruddhsinhpc1&show_icons=true&theme=radical" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniruddhsinhpc1&layout=compact&theme=radical" width="48%"/>
-</div>
+### 🔹 AI & Data Learning
+- Practice notebooks for AI & Data Science  
+- Small experiments and learning projects  
 
 ---
 
 ## 🎯 Current Learning Focus
 - 🤖 Artificial Intelligence fundamentals  
 - 📊 Data Science with Python  
-- 🧠 Problem Solving & DSA  
+- 🧠 Data Structures & Algorithms  
 - 🌐 Web Development basics  
 
 ---
@@ -97,8 +92,7 @@ I’m deeply interested in **Artificial Intelligence, Data Science, and future t
 ---
 
 ## ✨ Final Note
-🚀 *This GitHub profile represents my learning journey in AI and technology.*  
-I believe in **consistent improvement, hands-on practice, and curiosity** — and I’m excited to grow as a developer and engineer.
+🚀 *This GitHub profile represents my journey as an AI student and programmer.*  
+I believe in **consistency, learning by doing, and continuous improvement**.
 
-⭐ *Feel free to explore, connect, or collaborate!*
-
+⭐ *Feel free to explore my repositories and connect with me!*
