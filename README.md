@@ -67,8 +67,6 @@ I’m interested in **Artificial Intelligence, Data Science, and future technolo
 - Includes sections like About Me, Skills, Projects, and Contact  
 - Focused on clean UI and responsive design  
 - 🔗 Live Demo: https://aniruddhsinhpc1.github.io/portfolio/  
-- 📁 GitHub Repo: https://github.com/aniruddhsinhpc1/portfolio  
-
 ---
 
 ### 🐾 Pet Care Management System (Flask)
