@@ -58,16 +58,28 @@ I’m interested in **Artificial Intelligence, Data Science, and future technolo
 
 ---
 
-## 📂 Projects (In Progress 🚧)
+## 📂 Projects 
 > As an AI student, I’m actively learning and building projects. Repositories will be updated regularly.
 
-### 🔹 Programming Practice
-- Python, Java, C & C++ logic building  
-- Console-based mini programs  
+### 🌐 Personal Portfolio Website
+- Developed a responsive **personal portfolio website** to showcase my skills, projects, and achievements  
+- Built using **HTML, CSS, and basic JavaScript**  
+- Includes sections like About Me, Skills, Projects, and Contact  
+- Focused on clean UI and responsive design  
+- 🔗 Live Demo: https://aniruddhsinhpc1.github.io/portfolio/  
+- 📁 GitHub Repo: https://github.com/aniruddhsinhpc1/portfolio  
 
-### 🔹 AI & Data Learning
-- Practice notebooks for AI & Data Science  
-- Small experiments and learning projects  
+---
+
+### 🐾 Pet Care Management System (Flask)
+- Developed a **Pet Care Management System** using **Python Flask**  
+- Helps manage pet records, appointments, and healthcare details  
+- Features:
+  - Add & manage pet details 🐶🐱  
+  - Appointment scheduling 📅  
+  - Simple dashboard interface  
+- Backend: Flask | Frontend: HTML, CSS  
+- Focused on real-world problem solving and CRUD operations  
 
 ---
 
