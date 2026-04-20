@@ -66,7 +66,6 @@ I’m interested in **Artificial Intelligence, Data Science, and future technolo
 - Built using **HTML, CSS, and basic JavaScript**  
 - Includes sections like About Me, Skills, Projects, and Contact  
 - Focused on clean UI and responsive design  
-- 🔗 Live Demo: https://aniruddhsinhpc1.github.io/portfolio/  
 ---
 
 ### 🐾 Pet Care Management System (Flask)
